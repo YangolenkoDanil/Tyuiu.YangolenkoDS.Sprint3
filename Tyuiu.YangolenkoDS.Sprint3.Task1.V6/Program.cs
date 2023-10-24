@@ -14,7 +14,7 @@ namespace Tyuiu.YangolenkoDS.Sprint3.Task1.V6
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
+            Console.Title = "Спринт #3 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #3                                                                         *");
             Console.WriteLine("* Тема: Оператор цикла while                                                        *");
