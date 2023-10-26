@@ -17,7 +17,7 @@ namespace Tyuiu.YangolenkoDS.Sprint3.Task6.V20
             Console.Title = "Спринт #3 | Выполнил: Янголенко Д. С. | АСОиУб-23-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #3                                                                         *");
-            Console.WriteLine("* Тема:Вложенные циклы                                                              *");
+            Console.WriteLine("* Тема:Обработка целочисленной информации                                           *");
             Console.WriteLine("* Задание #6                                                                        *");
             Console.WriteLine("* Вариант #20                                                                       *");
             Console.WriteLine("* Выполнил: Янголенко Данил Сергеевич | АСОиУб-23-1                                 *");
